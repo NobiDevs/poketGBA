@@ -17,3 +17,5 @@ A delta skin aimed to bring the GBA look to Delta.
 
 ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/aec95257-0dc1-4355-b037-0a7e029ff7fa)
 ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/fb371b5d-61ed-4681-be3e-cc6d08ac223d)
+
+[![Downloads](https://img.shields.io/github/downloads/NobiDevs/poketGBA/total.svg?style=flat)]()
