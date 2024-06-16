@@ -1,5 +1,5 @@
 ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/49bcf3af-1286-41e3-b8c7-873be12c9fdf)
-<a href="https://github.com/NobiDevs/poketGBA/releases/tag/v1.1"><img align="right"  src="https://img.shields.io/github/downloads/NobiDevs/poketGBA/total.svg?style=flat"></a>
+<a href="https://github.com/NobiDevs/poketGBA/releases"><img align="right"  src="https://img.shields.io/github/downloads/NobiDevs/poketGBA/total.svg?style=flat"></a>
 
 &nbsp;
 
@@ -12,7 +12,7 @@
 - Quickload by tapping delta (under display)
 - Screen ambience
 
-[![Download](https://img.shields.io/badge/Download-19A974)](https://github.com/NobiDevs/poketGBA/releases/tag/v1.1)
+[![Download](https://img.shields.io/badge/Download-19A974)](https://github.com/NobiDevs/poketGBA/releases)
 &nbsp;
 
 <!-- ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/aec95257-0dc1-4355-b037-0a7e029ff7fa)
