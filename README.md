@@ -1,6 +1,7 @@
-# poketGBA <img src="https://github.com/NobiDevs/poketGBA/assets/67208310/7dd918d0-294e-41ba-8c5d-c68323da4a1f" width="28px" margin-top="-50000px" alt="hi">
+![image](https://github.com/NobiDevs/poketGBA/assets/67208310/49bcf3af-1286-41e3-b8c7-873be12c9fdf)
+<a href="https://github.com/NobiDevs/poketGBA/releases/tag/v1.1"><img align="right"  src="https://img.shields.io/github/downloads/NobiDevs/poketGBA/total.svg?style=flat"></a>
 
-A delta skin aimed to bring the GBA look to Delta.
+&nbsp;
 
 `Features`
 - Supports Edge-to-Edge iPhones only (for now) 
@@ -11,11 +12,19 @@ A delta skin aimed to bring the GBA look to Delta.
 - Quickload by tapping delta (under display)
 - Screen ambience
 
-`Feedback?`
+[![Download](https://img.shields.io/badge/Download-19A974)](https://github.com/NobiDevs/poketGBA/releases/tag/v1.1)
+&nbsp;
 
-[Message me](https://discord.com/channels/625714187078860810/625715359336628235) or [Sumbit a ticket](https://github.com/NobiDevs/poketGBA/issues).
-
-![image](https://github.com/NobiDevs/poketGBA/assets/67208310/aec95257-0dc1-4355-b037-0a7e029ff7fa)
+<!-- ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/aec95257-0dc1-4355-b037-0a7e029ff7fa)
 ![image](https://github.com/NobiDevs/poketGBA/assets/67208310/fb371b5d-61ed-4681-be3e-cc6d08ac223d)
+-->
 
-[![Downloads](https://img.shields.io/github/downloads/NobiDevs/poketGBA/total.svg?style=flat)]()
+![image](https://github.com/NobiDevs/poketGBA/assets/67208310/c7b47e81-f1fc-4b4b-878d-e847e12aba84)
+![image](https://github.com/NobiDevs/poketGBA/assets/67208310/74a8baea-254a-498c-aa2d-7bd8c7290ae0)
+![image](https://github.com/NobiDevs/poketGBA/assets/67208310/35284cc8-675d-4ee1-8e14-2ca13de6434c)
+
+<!-- `Feedback?`
+
+[![Discord](https://img.shields.io/badge/@Nobi5480-%235865F2.svg?&logo=discord&logoColor=white)](#)
+
+-->
